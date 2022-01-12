@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Subhadarsini-10
+- 👋 Hi, I’m Subha
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning ...
 
