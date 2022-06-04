@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhadarsini-10&label=Profile%20views&color=0e75b6&style=flat" alt="subhadarsini-10" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@subha_111" target="blank"><img src="https://img.shields.io/twitter/follow/@subha_111?logo=twitter&style=for-the-badge" alt="@Subha_111" /></a> </p>
 
 - 🔭 I’m currently working on [Clone project](https://github.com/Subhadarsini-10/Whatsapp-clone)
 
