@@ -13,8 +13,7 @@
 - 🤝 I’m looking for help with **ReactJs projects**
 
 - 👨‍💻 All of my projects are available at [https://subhaportfolio.netlify.app](https://subhaportfolio.netlify.app)
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lv_xb4s39yFpc9aMO0Mw6yM32bMVOSuE/view?usp=sharing](https://drive.google.com/file/d/1lv_xb4s39yFpc9aMO0Mw6yM32bMVOSuE/view?usp=sharing)
+- 
 - 📄 Know about my experiences https://drive.google.com/file/d/145rAsRRvXQXQC-yYPWwE9bD5Pz8jAuIZ/view?usp=sharing
 
 - ⚡ Fun fact **I think I'm kind of weird and funny person**
